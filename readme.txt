@@ -1,5 +1,5 @@
-Git is a distributed 
-chekec....
+iGit is a distributed 
+chekec....checkout  issue-101.
 version control system.
 Git is free software distributed under the GPL.
 Git has a mutable index called stage.
